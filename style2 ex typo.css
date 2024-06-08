@@ -54,7 +54,7 @@ p1 {
 @media only screen and (max-width: 999px) {
   main {
     display: grid;
-    grid-template-columns: 25vw;
+    grid-template-columns: 100%;
     padding: 0.521vw;
     grid-row-gap: 0.781vw;
   }
@@ -83,12 +83,12 @@ h1 {
 
   p1 {
 	font-family: Poppins, SemiBold;
-	font-size: 2vw;
+	font-size: 5vw;
 	color: black;
 }
 
 #tekst {
-	margin-left: 20vh;
+	margin-left: 10vh;
 	margin-top: 7vh;
 }
 
