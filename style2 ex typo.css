@@ -54,9 +54,9 @@ p1 {
 @media only screen and (max-width: 999px) {
   main {
     display: grid;
-    grid-template-columns: 320px;
-    padding: 1em;
-    grid-row-gap: 15px;
+    grid-template-columns: 16.667vw;
+    padding: 0.521vw;
+    grid-row-gap: 0.781vw;
   }
 }
 
@@ -68,6 +68,39 @@ p1 {
 	grid-column-gap: 2vw;
 	grid-row-gap: 1.5vw;
   }
+
+  header {
+	position: sticky;
+	top: 0;
+	margin: 0;
+	padding: 0.25vw 0.030vw;
+	background-color: white;
+}
+
+h1 {
+	font-family: Poppins, SemiBold;
+	font-size: 10vw;
+	color: black;
+	width: auto;
+	padding-bottom: 0.417vw;
+	justify-self: center;
+}
+
+
+#naslov {
+	margin-left: 40vw;
+}
+
+  p1 {
+	font-family: Poppins, SemiBold;
+	font-size: 2vw;
+	color: black;
+}
+
+#tekst {
+	margin-left: 20vh;
+	margin-top: 7vh;
+}
 
 }
 
