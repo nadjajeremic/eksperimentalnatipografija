@@ -58,18 +58,8 @@ p1 {
     padding: 0.521vw;
     grid-row-gap: 0.781vw;
   }
-}
 
-@media only screen and (min-width: 1000px) {
- main {
-    display: grid;
-	grid-template-columns: auto auto auto;
-	margin: 15vh 15vw;
-	grid-column-gap: 2vw;
-	grid-row-gap: 1.5vw;
-  }
-
-  header {
+    header {
 	position: sticky;
 	top: 0;
 	margin: 0;
@@ -101,6 +91,18 @@ h1 {
 	margin-left: 20vh;
 	margin-top: 7vh;
 }
+
+}
+
+@media only screen and (min-width: 1000px) {
+ main {
+    display: grid;
+	grid-template-columns: auto auto auto;
+	margin: 15vh 15vw;
+	grid-column-gap: 2vw;
+	grid-row-gap: 1.5vw;
+  }
+
 
 }
 
