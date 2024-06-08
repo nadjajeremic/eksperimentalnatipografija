@@ -4,7 +4,7 @@ body {
 }
 
 header {
-	position: sticky;
+	position: static;
 	top: 0;
 	margin: 0;
 	padding: 0.25vw 0.030vw;
@@ -75,7 +75,7 @@ p1 {
 
 h1 {
 	font-family: Poppins, SemiBold;
-	font-size: 0.8vw;
+	font-size: 1.4vw;
 	color: black;
 	width: auto;
 	padding-bottom: 0.417vw;
