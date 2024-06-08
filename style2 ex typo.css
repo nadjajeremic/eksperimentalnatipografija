@@ -54,7 +54,7 @@ p1 {
 @media only screen and (max-width: 999px) {
   main {
     display: grid;
-    grid-template-columns: 16.667vw;
+    grid-template-columns: 25vw;
     padding: 0.521vw;
     grid-row-gap: 0.781vw;
   }
@@ -78,7 +78,7 @@ h1 {
 
 
 #naslov {
-	margin-left: 40vw;
+	margin-left: 20vw;
 }
 
   p1 {
