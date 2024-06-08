@@ -75,7 +75,7 @@ p1 {
 
 h1 {
 	font-family: Poppins, SemiBold;
-	font-size: 1.4vw;
+	font-size: 2vw;
 	color: black;
 	width: auto;
 	padding-bottom: 0.417vw;
@@ -94,7 +94,7 @@ h1 {
 }
 
 #tekst {
-	margin-left: 10vh;
+	margin-left: 6vh;
 	margin-top: 7vh;
 }
 
