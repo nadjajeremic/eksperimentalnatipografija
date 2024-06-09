@@ -19,7 +19,7 @@ h1 {
 	color: black;
 	width: auto;
 	padding-bottom: 0.417vw;
-	justify-self: center;
+	margin: 0;
 }
 
 p {
@@ -31,12 +31,12 @@ p {
 
 
 #naslov {
-	margin-left: 20vw;
+	margin-left: 15vw;
 }
 
 #meni {
 	justify-self: end;
-	margin-right: 20vw;
+	margin-right: 15vw;
 }
 
 .poppins-semibold {
@@ -94,6 +94,7 @@ h1 {
 	color: black;
 	justify-self: center;
 	-webkit-text-size-adjust: 100%;
+	margin: 0;
 }
 
 p {
@@ -110,11 +111,11 @@ p {
 }
 
 #naslov {
-	margin-left: 20vw;
+	margin-left: 6vw;
 }
 #meni {
 	justify-self: end;
-	margin-right: 20vw;
+	margin-right: 6vw;
 }
 
   p1 {
