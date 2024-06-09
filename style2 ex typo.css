@@ -9,6 +9,8 @@ header {
 	margin: 0;
 	padding: 0.25vw 0.030vw;
 	background-color: white;
+	display: grid;
+	grid-template-columns: auto auto;
 }
 
 h1 {
@@ -20,9 +22,21 @@ h1 {
 	justify-self: center;
 }
 
+p {
+	font-family: Poppins, SemiBold;
+	font-size: 2vw;
+	color: black;
+	margin: 0;
+}
+
 
 #naslov {
-	margin-left: 40vw;
+	margin-left: 20vw;
+}
+
+#meni {
+	justify-self: end;
+	margin-right: 20vw;
 }
 
 .poppins-semibold {
@@ -70,14 +84,23 @@ p1 {
 	top: 0;
 	margin: 0;
 	background-color: white;
+	display: grid;
+	grid-template-columns: auto auto;
 }
 
 h1 {
 	font-family: Poppins, SemiBold;
-	font-size: 7vw;
+	font-size: 4vw;
 	color: black;
 	justify-self: center;
 	-webkit-text-size-adjust: 100%;
+}
+
+p {
+	font-family: Poppins, SemiBold;
+	font-size: 4vw;
+	color: black;
+	margin: 0;
 }
 
 .poppins-semibold {
@@ -88,6 +111,10 @@ h1 {
 
 #naslov {
 	margin-left: 20vw;
+}
+#meni {
+	justify-self: end;
+	margin-right: 20vw;
 }
 
   p1 {
