@@ -75,7 +75,6 @@ p1 {
   main {
     display: grid;
     grid-template-columns: 100%;
-    padding: 0.521vw;
     grid-row-gap: 0.781vw;
   }
 
@@ -85,8 +84,6 @@ header {
 	margin: 0;
 	padding: 0.2vw 0.020vw;
 	background-color: white;
-	display: grid;
-	grid-template-columns: auto auto;
 }
 
 h1 {
@@ -94,7 +91,6 @@ h1 {
 	font-size: 4vw;
 	color: black;
 	-webkit-text-size-adjust: 100%;
-	margin: 0;
 }
 
 p {
@@ -102,7 +98,7 @@ p {
 	font-size: 4vw;
 	color: black;
 	-webkit-text-size-adjust: 100%;
-	margin: 0;
+	
 }
 
 .poppins-semibold {
@@ -115,7 +111,7 @@ p {
 	margin-left: 6vw;
 }
 #meni {
-	justify-self: end;
+	justify-self: start;
 	margin-right: 6vw;
 }
 
