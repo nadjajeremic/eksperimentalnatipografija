@@ -79,10 +79,11 @@ p1 {
     grid-row-gap: 0.781vw;
   }
 
-    header {
+header {
 	position: static;
 	top: 0;
 	margin: 0;
+	padding: 0.2vw 0.020vw;
 	background-color: white;
 	display: grid;
 	grid-template-columns: auto auto;
@@ -92,7 +93,6 @@ h1 {
 	font-family: Poppins, SemiBold;
 	font-size: 4vw;
 	color: black;
-	justify-self: center;
 	-webkit-text-size-adjust: 100%;
 	margin: 0;
 }
@@ -101,6 +101,7 @@ p {
 	font-family: Poppins, SemiBold;
 	font-size: 4vw;
 	color: black;
+	-webkit-text-size-adjust: 100%;
 	margin: 0;
 }
 
