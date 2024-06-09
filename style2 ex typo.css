@@ -118,7 +118,7 @@ p {
 }
 #meni {
 	margin-top: 8vw;
-	justify-self: left;
+	justify-self: stretch;
 	margin-left: 6vw;
 	
 }
