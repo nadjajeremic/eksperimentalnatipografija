@@ -117,7 +117,7 @@ p {
 }
 #meni {
 	margin-top: 13vw;
-	margin-left: 6vw;
+	
 	
 }
 
@@ -128,6 +128,7 @@ p {
 }
 
 #tekst {
+	-webkit-text-size-adjust: 100%;
 	margin-left: 6vh;
 	margin-top: 7vh;
 }
