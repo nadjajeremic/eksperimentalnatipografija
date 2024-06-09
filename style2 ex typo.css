@@ -103,7 +103,7 @@ p {
 	font-size: 4vw;
 	color: black;
 	-webkit-text-size-adjust: 100%;
-	
+	margin: 0;
 }
 
 .poppins-semibold {
