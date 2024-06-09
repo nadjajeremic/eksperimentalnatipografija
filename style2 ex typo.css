@@ -35,7 +35,7 @@ p {
 }
 
 #meni {
-	justify-self: end;
+	margin-left: 50vw;
 	margin-right: 15vw;
 }
 
@@ -75,6 +75,7 @@ p1 {
   main {
     display: grid;
     grid-template-columns: 100%;
+    padding: 0.521vw;
     grid-row-gap: 0.781vw;
   }
 
@@ -91,6 +92,7 @@ h1 {
 	font-size: 4vw;
 	color: black;
 	-webkit-text-size-adjust: 100%;
+	margin: 0;
 }
 
 p {
@@ -111,6 +113,7 @@ p {
 	margin-left: 6vw;
 }
 #meni {
+	margin-top: 5vw;
 	margin-right: 6vw;
 }
 
@@ -135,65 +138,7 @@ p {
 	grid-column-gap: 2vw;
 	grid-row-gap: 1.5vw;
   }
-  
-.poppins-semibold {
-  font-family: "Poppins", sans-serif;
-  font-weight: 600;
-  font-style: normal;
-}
 
-
-header {
-	position: static;
-	top: 0;
-	margin: 0;
-	padding: 0.25vw 0.030vw;
-	background-color: white;
-	display: grid;
-	grid-template-columns: auto auto;
-}
-
-h1 {
-	font-family: Poppins, SemiBold;
-	font-size: 2vw;
-	color: black;
-	width: auto;
-	padding-bottom: 0.417vw;
-	margin: 0;
-}
-
-p {
-	font-family: Poppins, SemiBold;
-	font-size: 2vw;
-	color: black;
-	margin: 0;
-}
-
-
-#naslov {
-	margin-left: 15vw;
-}
-
-#meni {
-	justify-self: end;
-	margin-right: 15vw;
-}
-
-.projekat img {
-	max-width: 100%;
-	height: auto;
-}
-
-p1 {
-	font-family: Poppins, SemiBold;
-	font-size: 1.3vw;
-	color: black;
-}
-
-#tekst {
-	margin-left: 28vh;
-	margin-top: 7vh;
-}
 
 }
 
