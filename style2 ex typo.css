@@ -31,12 +31,12 @@ p {
 
 
 #naslov {
-	margin-left: 213.08px;
+	margin-left: 20px;
 }
 
 #meni {
-	justify-self: stretch;
-	margin-left: 209px;
+	justify-self: end;
+	margin-right: 20px;
 	margin-top: 0;
 }
 
