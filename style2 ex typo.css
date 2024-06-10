@@ -31,12 +31,12 @@ p {
 
 
 #naslov {
-	margin-left: 15vw;
+	margin-left: 14vw;
 }
 
 #meni {
-	justify-self: end;
-	margin-right: 15vw;
+	justify-self: stretch;
+	margin-left: 14vw;
 	margin-top: 0;
 }
 
@@ -50,7 +50,7 @@ p {
 main {
 	display: grid;
 	grid-template-columns: auto auto auto;
-	margin: 15vh 15vw;
+	margin: 15vw 15vw;
 	grid-column-gap: 2vw;
 	grid-row-gap: 1.5vw;
 }
